@@ -9,3 +9,4 @@ What do you like more?
 //Your answer
 //example: Назаркин - 5
 Калентьев - 5
+Бадичев - 2
