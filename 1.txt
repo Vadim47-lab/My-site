@@ -5,7 +5,6 @@ What do you like more?
 4. Ruby
 5. Python
 6. other
-
 //Your answer
 //example: Назаркин - 5
 Андреев - 5
@@ -18,3 +17,5 @@ What do you like more?
 Городнев - 2
 Подоляко - 1
 Ильин - 2
+Гончаренко - 1
+
