@@ -1,4 +1,4 @@
-What do you like more?
+﻿What do you like more?
 1. php
 2. C++
 3. C#
@@ -24,3 +24,4 @@ What do you like more?
 Заборский - 6
 Сморкалова - 4
 Ходос - 1
+Комарь - 3
